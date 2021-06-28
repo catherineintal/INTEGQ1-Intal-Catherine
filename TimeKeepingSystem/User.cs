@@ -1,4 +1,5 @@
-﻿namespace TimeKeepingSystem
+﻿
+namespace TimeKeepingSystem
 {
     internal class User
     {

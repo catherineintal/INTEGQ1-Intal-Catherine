@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeKeepingSystem", "TimeKeepingSystem\TimeKeepingSystem.csproj", "{9DE6C6FD-929F-4D73-AE70-DF52F572E156}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timekeepingsystem", "timekeepingsystem\timekeepingsystem.csproj", "{816FF11D-D7DD-4092-A848-CD8C0F0B1A10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9DE6C6FD-929F-4D73-AE70-DF52F572E156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9DE6C6FD-929F-4D73-AE70-DF52F572E156}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9DE6C6FD-929F-4D73-AE70-DF52F572E156}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9DE6C6FD-929F-4D73-AE70-DF52F572E156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816FF11D-D7DD-4092-A848-CD8C0F0B1A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816FF11D-D7DD-4092-A848-CD8C0F0B1A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816FF11D-D7DD-4092-A848-CD8C0F0B1A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816FF11D-D7DD-4092-A848-CD8C0F0B1A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {41DE9410-9CAC-4A84-8F7C-648D1736C091}
+		SolutionGuid = {5A0B6C88-EA0F-4D1B-A099-CA9B03C51F82}
 	EndGlobalSection
 EndGlobal
