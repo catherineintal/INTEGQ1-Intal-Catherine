@@ -26,7 +26,7 @@ namespace TimeKeepingSystem
                 Console.WriteLine("");
             }
             else
-            {
+            { 
                 Console.WriteLine("666");
             }
 
